@@ -25,3 +25,4 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 Huge thanks to [Antidoteseries](https://github.com/Antidoteseries), [Steve246](https://github.com/SteveNo246) and [PC-DOS](https://github.com/PC-DOS) for their great help.
 
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240909_23_33_03_Pro.jpg)
+![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240911_00_04_43_Rich.jpg)
