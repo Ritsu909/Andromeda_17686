@@ -13,6 +13,7 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * [UnlockedGPT.bin](https://github.com/user-attachments/files/16940524/UnlockedGPT.zip)
 * [FFU file of build 17686](https://archive.org/download/andromeda17686/Image_180714-0836_Talkman.7z)
 * [Ffu2Vhdx](https://github.com/gus33000/Ffu2Vhdx)
+* VHDX file which converted from the FFU file of build 17686 using Ffu2Vhdx
 * HxD Hex Editor
 * WinHex
 ## Known issues
