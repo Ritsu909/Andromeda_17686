@@ -27,3 +27,4 @@
 非常感谢 [Antidoteseries](https://github.com/Antidoteseries)、[Steve246](https://github.com/SteveNo246) 和 [PC-DOS](https://github.com/PC-DOS) 的大力帮助。
 
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240909_23_33_03_Pro.jpg)
+![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240911_00_04_43_Rich.jpg)
