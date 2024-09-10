@@ -12,6 +12,7 @@
 * 已经使用 [Windows Phone Internals 2.9.2](https://github.com/ReneLergner/WPinternals/releases/tag/2.9.2) 解除了 Bootloader 锁
 * [UnlockedGPT.bin](https://github.com/user-attachments/files/16940524/UnlockedGPT.zip)
 * [Build 17686 的 FFU 文件](https://archive.org/download/andromeda17686/Image_180714-0836_Talkman.7z)
+* [Ffu2Vhdx](https://github.com/gus33000/Ffu2Vhdx)
 * HxD Hex Editor
 * WinHex
 ## 已知问题
