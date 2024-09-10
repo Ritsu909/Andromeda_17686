@@ -13,6 +13,7 @@
 * [UnlockedGPT.bin](https://github.com/user-attachments/files/16940524/UnlockedGPT.zip)
 * [Build 17686 的 FFU 文件](https://archive.org/download/andromeda17686/Image_180714-0836_Talkman.7z)
 * [Ffu2Vhdx](https://github.com/gus33000/Ffu2Vhdx)
+* 使用 Ffu2Vhdx 从 build 17686 的 FFU 文件转换而成的 VHDX 文件
 * HxD Hex Editor
 * WinHex
 ## 已知问题
