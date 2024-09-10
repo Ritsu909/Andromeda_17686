@@ -1,4 +1,10 @@
 # AndromedaOS build 17686 for Production Lumia 950
+<div align="center">
+  
+  **English** | [**中文（简体）**](./README_zh-CN.md)
+  
+</div>
+
 ## Note
 This Guide is currently only available for ***Production*** RM-1104, RM-1105 and RM-1118. For the above prototype devices, as well as RM-1106 and RM-1107, more test feedback is needed.
 ## Requirements
@@ -14,4 +20,6 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * Clicking on some options in the Settings app will cause the app to crash.
 * (Add at any time)
 ## Acknowledgements
-Huge thanks to [Antidoteseries](https://github.com/Antidoteseries), Steve246 and [PC-DOS](https://github.com/PC-DOS) for their great help.
+Huge thanks to [Antidoteseries](https://github.com/Antidoteseries), [Steve246](https://github.com/SteveNo246) and [PC-DOS](https://github.com/PC-DOS) for their great help.
+
+![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240909_23_33_03_Pro.jpg)
