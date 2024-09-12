@@ -22,6 +22,8 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * If the "Open Clip Insights" option is clicked after taking a screenshot by long-pressing the Windows logo or tapping the "Screen Snip" button in Control Center, the Control Center will no longer be displayed.
 * Clicking on some options in the Settings app will cause the app to crash.
 * Clicking the "Kernel debugging settings" in the Settings app will cause the app to crash. The relevant settings can be changed in the Device Portal.
+* Both the front and rear cameras have abnormal imaging and can only capture strong light sources at close range.
+* There is no iris option in Windows Hello settings.
 * So far, this is a "one-time" build. If you don’t like flashing your phone frequently, don’t reboot or shut it down.
 * (Add at any time)
 ## Acknowledgements
