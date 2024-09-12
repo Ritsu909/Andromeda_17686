@@ -31,4 +31,4 @@
 
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240909_23_33_03_Pro.jpg)
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240911_00_04_43_Rich.jpg)
-![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240911_12_40_01_Pro.jpg)
+![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240912_11_49_40_Rich.jpg)
