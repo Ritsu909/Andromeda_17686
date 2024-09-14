@@ -20,10 +20,12 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * If the device can't enter OOBE for a long time (close to an hour), it needs to be rebooted.
 * If the device displays abnormally in OOBE, it still needs to be rebooted.
 * If the "Open Clip Insights" option is clicked after taking a screenshot by long-pressing the Windows logo or tapping the "Screen Snip" button in Control Center, the Control Center will no longer be displayed.
+* The Control Center also no longer displays when connected to a second display using a Microsoft Display Dock or similar device.
 * Clicking on some options in the Settings app will cause the app to crash.
 * Clicking the "Kernel debugging settings" in the Settings app will cause the app to crash. The relevant settings can be changed in the Device Portal.
 * Both the front and rear cameras have abnormal imaging and can only capture strong light sources at close range.
 * There is no iris option in Windows Hello settings.
+* The gears and the progress bar will not be displayed on the screen when installing the update package(s).
 * So far, this is a "one-time" build. If you don’t like flashing your phone frequently, don’t reboot or shut it down.
 * (Add at any time)
 ## Acknowledgements
