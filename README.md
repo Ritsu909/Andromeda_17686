@@ -13,9 +13,9 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * [FFU file of build 17686](https://archive.org/download/andromeda17686/Image_180714-0836_Talkman.7z)
 * [Ffu2Vhdx](https://github.com/gus33000/Ffu2Vhdx)
 * VHDX file which converted from the FFU file of build 17686 using Ffu2Vhdx
-* [DiskGenius](https://www.diskgenius.com/download.php)
 * [HxD](https://mh-nexus.de/en/hxd/)
 * [WinHex](https://www.x-ways.net/winhex/)
+* [DiskGenius](https://www.diskgenius.com/download.php)
 ## Known issues
 * If the phone can't enter OOBE for a long time (close to an hour), it needs to be rebooted.
 * If the phone displays abnormally in OOBE, it still needs to be rebooted.
@@ -26,15 +26,18 @@ This Guide is currently only available for ***Production*** RM-1104, RM-1105 and
 * Clicking the "Kernel debugging settings" in the Settings app will cause the app to crash. The relevant settings can be changed in the Device Portal.
 * Both the front and rear cameras have abnormal imaging and can only capture strong light sources at close range.
 * There is no iris option in Windows Hello settings.
+* The Magnifier is forcibly turned on, and the switch in the Settings app is invalid.
 * The gears and the progress bar will not be displayed on the screen when installing the update package(s).
 * So far, this is a "one-time" build. If you don’t like flashing your phone frequently, don’t reboot or shut it down.
 * (Add at any time)
 ## Acknowledgements
 Huge thanks to [Antidoteseries](https://github.com/Antidoteseries) for testing on the prototype Lumia 950 and providing some of the initial solutions.
 
-Huge thanks to [Steve246](https://github.com/SteveNo246) for providing production Lumia 950s (non-XL) for testing.
+Huge thanks to [Steve246](https://github.com/SteveNo246) for providing me with production Lumia 950s (non-XL).
 
 Huge thanks to [PC-DOS](https://github.com/PC-DOS) for compiling Ffu2Vhdx at the first time and inspiring me.
+
+Huge thanks to Ayu for the various tests and making FFUs that can be flashed directly.
 
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240909_23_33_03_Pro.jpg)
 ![](https://github.com/Ritsu909/Andromeda_17686/blob/main/WP_20240911_00_04_43_Rich.jpg)
