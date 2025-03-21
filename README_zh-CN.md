@@ -10,9 +10,9 @@
 ## 需要准备
 * 一部刚刷完 Windows 10 Mobile 原始 FFU 的 Lumia 950
 * 已经使用 [Windows Phone Internals 2.9.2](https://github.com/ReneLergner/WPinternals/releases/tag/2.9.2) 解除了 Bootloader 锁
-* [原始 VHDX 备份文件](https://archive.org/details/10.0.17686.1003.rs_onecore_dep_uxp_dev.180606-1600_Dump)
-* [HxD](https://mh-nexus.de/en/hxd/)
-* [WinHex](https://www.x-ways.net/winhex/)
+* [原始 VHDX 备份文件](https://archive.org/details/10.0.17686.1003.rs_onecore_dep_uxp_dev.180606-1600_Dump) (在教程 2.x 中不再需要)
+* [HxD](https://mh-nexus.de/en/hxd/) (在教程 2.x 中不再需要)
+* [WinHex](https://www.x-ways.net/winhex/) (在教程 2.x 中不再需要)
 * [DiskGenius](https://www.diskgenius.com/download.php)
 ## 已知问题
 * 如果手机长时间不能进入 OOBE（接近一小时），需要重启。
