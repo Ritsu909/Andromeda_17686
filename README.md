@@ -10,9 +10,9 @@ This Guide is currently only available for RM-1104, RM-1105 and RM-1118. For RM-
 ## Requirements
 * A Lumia 950 that has just been flashed with the original FFU file of Windows 10 Mobile
 * Unlocked Bootloader using [Windows Phone Internals 2.9.2](https://github.com/ReneLergner/WPinternals/releases/tag/2.9.2)
-* [Original VHDX dump file](https://archive.org/details/10.0.17686.1003.rs_onecore_dep_uxp_dev.180606-1600_Dump)
-* [HxD](https://mh-nexus.de/en/hxd/)
-* [WinHex](https://www.x-ways.net/winhex/)
+* [Original VHDX dump file](https://archive.org/details/10.0.17686.1003.rs_onecore_dep_uxp_dev.180606-1600_Dump) (No longer required in Guide 2.x)
+* [HxD](https://mh-nexus.de/en/hxd/) (No longer required in Guide 2.x)
+* [WinHex](https://www.x-ways.net/winhex/) (No longer required in Guide 2.x)
 * [DiskGenius](https://www.diskgenius.com/download.php)
 ## Known issues
 * If the phone can't enter OOBE for a long time (close to an hour), it needs to be rebooted.
